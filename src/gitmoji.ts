@@ -169,7 +169,7 @@ let Gitmoji: Array<gitmojiList> = [
         description: vscode.l10n.t('Merge branches'),
     },
     {
-        emoji: '📦',
+        emoji: '📦️',
         code: ':package:',
         description: vscode.l10n.t('Add or update compiled files or packages'),
     },
